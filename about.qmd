@@ -1,0 +1,74 @@
+---
+title: "About"
+---
+
+## About LightSPAN
+
+Light exposure is vital for human health and wellbeing. Research shows that receiving the right light at the right time supports vision, sleep, cognitive well-being and overall functioning.
+
+LightSPAN is a multidisciplinary research project that adopts a **lifespan-oriented approach**, targeting two key populations in Singapore: **school-aged children and older adults**. The project investigates the efficacy of optimising daily light exposure to improve health outcomes across the life course, with a focus on **vision, sleep and cognitive well-being**.
+
+By addressing light as a **modifiable environmental factor**, LightSPAN aims to support longer lives spent in good health.
+
+---
+
+## The LightUP App
+
+At the core of LightSPAN is **LightUP**, an innovative and non-invasive behaviour change programme delivered through a mobile health (mHealth) smartphone application.
+
+The LightUP app:
+
+- Provides personalised and timely light exposure recommendations
+- Uses onboard sensors to track and visualise real-time light exposure
+- Delivers feedback-driven prompts to support sustainable, light-friendly behaviours in everyday life
+
+The goal is to make healthier light exposure practices **accessible and sustainable in daily routines**.
+
+---
+
+## School-aged Children
+
+Singapore is often referred to as the **myopia capital of the world**, due to the high prevalence of myopia among school-aged children.
+
+In this population, LightSPAN aims to:
+
+- Prevent or delay the onset of myopia
+- Reduce its long-term public health impact
+- Support healthy visual development during childhood
+
+The programme actively involves **parents** in supporting their children’s daily light habits, helping to ensure adequate healthy daylight exposure as part of everyday routines to promote optimal development and cognitive functioning.
+
+---
+
+## Older Adults
+
+For older adults, LightSPAN focuses on supporting **healthy ageing** through optimised light exposure.
+
+The project investigates how improved light environments can support:
+
+- Regulation of the biological clock
+- Better sleep quality
+- Improved mood
+- Cognitive and physical function
+- Overall wellbeing
+
+This work is particularly relevant given **Singapore’s rapidly ageing population**. Through accessible digital tools and light-aware daily routines, LightSPAN seeks to help preserve functional ability and quality of life in later life.
+
+---
+
+## Partnerships
+
+The LightSPAN project is led by **TUMCREATE** in collaboration with:
+
+- National University of Singapore (NUS)
+- Lions Befrienders Singapore
+
+The project also involves partnerships with key government agencies.
+
+Together, these collaborations aim to generate **robust scientific evidence** and contribute to the development of **evidence-based guidelines and recommendations** that support light-optimised lifestyles and healthier communities across Singapore.
+
+---
+
+## Funding
+
+The LightSPAN project is supported by funding from the **National Research Foundation (NRF), Singapore**.

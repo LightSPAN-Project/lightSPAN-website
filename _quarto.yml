@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "LightSPAN"
+  navbar:
+    logo: "assets/logos/extracted-png/lightspan-logo-variant/lightspan-logo-variant-3-3.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: media.qmd
+        text: Media
+      - href: publications.qmd
+        text: Publications
+      - href: trials.qmd
+        text: Trial Registration
+      - href: partners.qmd
+        text: "People & Partners"
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+
+bibliography: references.bib

@@ -1,0 +1,65 @@
+---
+title: "Media"
+---
+
+## Media Coverage
+
+::: {.card-grid}
+
+::: {.info-card}
+### Study aims to use sunlight to reduce myopia in children, help seniors age better
+
+*The Straits Times — 9 November 2023*
+
+[Read article](https://www.straitstimes.com/singapore/study-to-use-sunlight-to-reduce-myopia-in-children-help-seniors-age-better)
+:::
+
+::: {.info-card}
+### How much sunlight do you need to reduce risks of myopia? A new sensor will tell you
+
+*Channel News Asia — 10 November 2023*
+
+[Read article](https://www.channelnewsasia.com/singapore/nus-medicine-tumcreate-sunlight-myopia-seniors-light-sensor-3912016)
+:::
+
+::: {.info-card}
+### Study aims to nudge parents into bringing their children outdoors more to prevent myopia
+
+*YouTube — 10 November 2023*
+
+[Watch video](https://www.youtube.com/watch?v=FoyVbsdSESA)
+:::
+
+::: {.info-card}
+### 本地研发新应用“点亮” 促家长让孩子多晒太阳防近视
+
+*联合早报 (Zaobao) — 9 November 2023*
+
+[Read article](https://www.zaobao.com.sg/news/singapore/story20231109-1449051)
+:::
+
+:::
+
+---
+
+## Institutional & Partnership Announcements
+
+::: {.card-grid}
+
+::: {.info-card}
+### Reducing Childhood Myopia, Boosting Resilient Ageing Through Novel Light Exposure App
+
+*TUMCREATE — 9 November 2023*
+
+[Read announcement](https://www.tum-create.edu.sg/news/reducing-childhood-myopia-boosting-resilient-ageing-through-novel-light-exposure-app)
+:::
+
+::: {.info-card}
+### Lions Befrienders and TUMCREATE Sign MoU to Study Optimal Light Exposure in Seniors
+
+*TUMCREATE — 19 November 2024*
+
+[Read announcement](https://www.tum-create.edu.sg/news/lions-befrienders-and-tumcreate-sign-mou-to-study-optimal-light-exposure-in-seniors)
+:::
+
+:::

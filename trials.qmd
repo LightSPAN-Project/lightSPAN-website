@@ -1,0 +1,27 @@
+---
+title: "Trial Registration"
+---
+
+The LightSPAN pilot study and randomised controlled trial are registered with the **ISRCTN registry**, an international clinical trial registry that ensures transparency and accessibility of study protocols.
+
+::: {.card-grid}
+
+::: {.info-card}
+### LightSPAN Pilot Study
+
+**Registry:** ISRCTN  
+**Study ID:** ISRCTN41405941  
+
+[View trial registration](https://www.isrctn.com/ISRCTN41405941)
+:::
+
+::: {.info-card}
+### LightSPAN Randomised Controlled Trial
+
+**Registry:** ISRCTN  
+**Study ID:** ISRCTN12391932  
+
+[View trial registration](https://www.isrctn.com/ISRCTN12391932)
+:::
+
+:::
