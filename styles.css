@@ -185,3 +185,42 @@ h3 {
     grid-template-columns: 1fr;
   }
 }
+
+.institution-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.6rem;
+  margin-top: 1.2rem;
+}
+
+.institution-item {
+  background: white;
+  border: 1px solid #eee2e8;
+  border-radius: 18px;
+  padding: 1.6rem 1.2rem;
+  text-align: center;
+  transition: 0.2s ease;
+}
+
+.institution-item:hover {
+  transform: translateY(-3px);
+  border-color: #e6d2dc;
+}
+
+.institution-logo {
+  max-height: 128px;
+  width: auto;
+  object-fit: contain;
+  margin-bottom: 0.8rem;
+}
+
+.institution-name {
+  font-size: 0.9rem;
+  color: #5a4b55;
+}
+
+@media (max-width: 900px) {
+  .institution-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
