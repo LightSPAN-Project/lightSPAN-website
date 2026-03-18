@@ -29,16 +29,13 @@ LightSPAN is a multidisciplinary research project in Singapore exploring how hea
 :::
 :::
 
-::: {.section-block}
-## Why light matters
-
-Receiving the right light at the right time is important for human health and wellbeing. LightSPAN investigates how optimising daily light exposure may improve health outcomes across the life course.
-:::
+---
 
 ::: {.section-block}
 ## Focus populations
 
 ::: {.card-grid}
+
 ::: {.info-card}
 ### School-aged children
 
@@ -50,16 +47,21 @@ Supporting healthy visual development and helping prevent or delay myopia throug
 
 Promoting healthy ageing through better light exposure practices that support sleep, mood, cognitive and physical function.
 :::
+
 :::
 :::
+
+---
 
 ::: {.section-block}
 ## The LightUP app
 
-LightSPAN includes **LightUP**, a mobile health app designed to provide personalised light exposure recommendations, track real-time light exposure and support sustainable behaviour change.
+LightSPAN includes **LightUP**, a mobile health application designed to provide personalised light exposure recommendations, track real-time light exposure and support sustainable behaviour change.
 
 [Learn more about the project](about.qmd)
 :::
+
+---
 
 ::: {.section-block}
 ## Institutions
