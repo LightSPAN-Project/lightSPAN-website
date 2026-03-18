@@ -64,10 +64,27 @@ LightSPAN includes **LightUP**, a mobile health app designed to provide personal
 ::: {.section-block}
 ## Institutions
 
-::: {.institution-pills}
-<span class="institution-pill">TUMCREATE</span>
-<span class="institution-pill">National University of Singapore (NUS)</span>
-<span class="institution-pill">Lions Befrienders Singapore</span>
-<span class="institution-pill">National Research Foundation, Singapore</span>
+::: {.institution-grid}
+
+::: {.institution-item}
+![](assets/logos/tumcreate.png){.institution-logo}
+<div class="institution-name">TUMCREATE</div>
+:::
+
+::: {.institution-item}
+![](assets/logos/nus.png){.institution-logo}
+<div class="institution-name">National University of Singapore</div>
+:::
+
+::: {.institution-item}
+![](assets/logos/lions.png){.institution-logo}
+<div class="institution-name">Lions Befrienders Singapore</div>
+:::
+
+::: {.institution-item}
+![](assets/logos/nrf.png){.institution-logo}
+<div class="institution-name">National Research Foundation, Singapore</div>
+:::
+
 :::
 :::
